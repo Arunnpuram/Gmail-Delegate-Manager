@@ -10,6 +10,7 @@ Before running the script, ensure the following:
 2. You have a JSON key file for the service account.
 3. The **Gmail API** is enabled for your Google Cloud project.
 4. The service account is granted permission to manage delegate settings for the user's Gmail account.
+5. Make sure you have added the necessary Gmail API scopes to your service Account OAUTH credentials
 
 ## Features
 
@@ -27,16 +28,3 @@ Before running the script, ensure the following:
    npm install
    node createDelegate.js
    node deleteDelegate.js
-
-
-## Example Output
-
-node createDelegate.js
-# Enter the file path to your service account JSON key file: ./service-account-key.json
-# Enter the email of the inbox to impersonate: user@example.com
-# Enter the email of the delegate: delegate@example.com
-
-node deleteDelegate.js
-# Enter the file path to your service account JSON key file: ./service-account-key.json
-# Enter the email of the inbox to impersonate: user@example.com
-# Enter the email of the delegate to delete: delegate@example.com
