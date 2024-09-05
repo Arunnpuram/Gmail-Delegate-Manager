@@ -1,0 +1,21 @@
+{
+  "name": "accountdelegationprocess",
+  "version": "1.0.0",
+  "main": "createDelegate.js, deleteDelegate.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "googleapis": "^144.0.0",
+    "read-line": "^0.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.1",
+    "prettier": "^3.3.3"
+  }
+}
