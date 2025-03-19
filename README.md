@@ -26,6 +26,6 @@ Before running the script, ensure the following:
    git clone https://github.com/Arunnpuram/Accountsdelegationprocess.git
    cd Accountsdelegationprocess
    npm install
-   npx tsx createDelegate.js
-   npx tsx deleteDelegate.js
+   npx tsx createDelegate.ts
+   npx tsx deleteDelegate.ts
    ```
