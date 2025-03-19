@@ -1,18 +1,19 @@
 {
   "name": "accountdelegationprocess",
   "version": "1.0.0",
-  "main": "createDelegate.js, deleteDelegate.js",
+  "main": "createDelegate.ts, deleteDelegate.ts",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Arun Puram",
   "license": "ISC",
-  "description": "",
+  "description": "A tool to create/remove delegated access to users for a shared mailbox",
   "dependencies": {
     "googleapis": "^144.0.0",
-    "read-line": "^0.1.2"
+    "read-line": "^0.1.2",
+    "tsx": "^4.19.1"
   },
   "devDependencies": {
     "eslint": "^9.9.1",
