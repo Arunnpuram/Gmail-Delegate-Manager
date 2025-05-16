@@ -64,7 +64,7 @@ The web interface in this repository provides a user-friendly way to use these s
 #### Local Development
 
 # Clone the repository
-git clone [Arunnpuram/Gmail-Delegate-Manager](https://github.com/Arunnpuram/Gmail-Delegate-Manager.git)
+git clone https://github.com/Arunnpuram/Gmail-Delegate-Manager.git
 
 cd Gmail-Delegate-Manager
 
@@ -77,7 +77,7 @@ npm run dev
 #### Production Deployment
 
 # Clone the repository
-git clone [Arunnpuram/Gmail-Delegate-Manager](https://github.com/Arunnpuram/Gmail-Delegate-Manager.git)
+git clone https://github.com/Arunnpuram/Gmail-Delegate-Manager.git)
 
 cd Gmail-Delegate-Manager
 
