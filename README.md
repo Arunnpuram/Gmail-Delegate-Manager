@@ -65,6 +65,7 @@ The web interface in this repository provides a user-friendly way to use these s
 
 # Clone the repository
 git clone [Arunnpuram/Gmail-Delegate-Manager](https://github.com/Arunnpuram/Gmail-Delegate-Manager.git)
+
 cd Gmail-Delegate-Manager
 
 # Install dependencies
