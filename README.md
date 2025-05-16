@@ -77,6 +77,7 @@ npm run dev
 
 # Clone the repository
 git clone [Arunnpuram/Gmail-Delegate-Manager](https://github.com/Arunnpuram/Gmail-Delegate-Manager.git)
+
 cd Gmail-Delegate-Manager
 
 ### Standard Node.js Deployment
