@@ -75,13 +75,6 @@ npm run dev
 
 #### Production Deployment
 
-# Clone the repository
-git clone https://github.com/Arunnpuram/Gmail-Delegate-Manager.git)
-
-cd Gmail-Delegate-Manager
-
-### Standard Node.js Deployment
-
 1. Clone the repository
 2. Install dependencies: `npm install`
 3. Build the application: `npm build`
