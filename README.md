@@ -20,7 +20,7 @@ Gmail Delegate Manager provides a modern web interface for the Gmail delegation 
 
 The web interface in this repository provides a user-friendly way to use these scripts, with additional features like batch processing and a responsive UI.
 
-<img src="public/Add Delegate.png" alt="Add Delegate width="300"/>
+<img src="public/Add Delegate.png" alt="Add Delegate" width="300"/>
 <img src="public/List Delegate.png" alt="List Delegate" width="300"/>
 
 
@@ -64,7 +64,6 @@ The web interface in this repository provides a user-friendly way to use these s
 
 #### Local Development
 
-\`\`\`bash
 # Clone the repository
 git clone 
 cd 
@@ -74,11 +73,11 @@ npm install
 
 # Run in development mode
 npm run dev
-\`\`\`
+
 
 #### Production Deployment
 
-\`\`\`bash
+
 # Clone the repository
 git clone 
 cd 
