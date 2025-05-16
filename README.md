@@ -7,7 +7,6 @@ A self-hosted web application for easily managing Gmail delegation access for yo
 - List all delegates for a mailbox
 - Batch operations for multiple mailboxes and delegates
 - Secure handling of Google service account credentials
-- User-friendly web interface with light and dark mode
 - OAuth 2.0 or Service Account authentication options
 - Completely self-hosted - no external dependencies
 
