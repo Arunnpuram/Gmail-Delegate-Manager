@@ -54,7 +54,7 @@
     "fs": "latest",
     "googleapis": "latest",
     "http": "latest",
-    "input-otp": "1.4.1",
+    "input-otp": "1.4.2",
     "lucide-react": "^0.454.0",
     "multer": "latest",
     "next": "15.2.4",
